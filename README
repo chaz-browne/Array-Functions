@@ -1,0 +1,6 @@
+Be sure to call in the file and with each function you can do the following!
+- arr_malloc = malloc for the array.
+- arr_make = populates the array, once malloc'd.
+- find_minimum = locates the smallest number in an array.
+- min_amount = finds the amount of occurences of a minimum.
+- find_and_delete_minimum = locates each minimum and then deletes it.
